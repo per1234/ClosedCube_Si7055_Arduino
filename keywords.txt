@@ -12,7 +12,7 @@ ClosedCube_Si7055	KEYWORD1
 # Methods and Functions (KEYWORD2)
 ##################################################################
 
-begin KEYWORD2
+begin	KEYWORD2
 
-readTemperature KEYWORD2
-readT KEYWORD2
+readTemperature	KEYWORD2
+readT	KEYWORD2
